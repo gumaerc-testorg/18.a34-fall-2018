@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d9ed0837-0051-c97b-48c5-47c6268f666b
 ---
@@ -48,20 +50,6 @@ Unrestricted elective credits ![](/images/educator/icon-question-unrestrict.png)
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with rows of tables and chairs facing four large blackboards.]({{< resource_file b5ff8240-a623-6ff4-2019-d86629e958ed >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Classes were held in a room equipped with long tables, about 30 chairs, blackboards on two walls, and an A/V system.
-    
 
 Assessment
 ----------
