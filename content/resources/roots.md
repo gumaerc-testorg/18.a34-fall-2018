@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 32455aa7-e114-7908-745b-e44648391b28
 resourcetype: Document
 title: roots.pdf
 uid: 2114bc3b-9c51-a555-e24e-12a09b507386

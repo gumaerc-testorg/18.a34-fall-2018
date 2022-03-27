@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 32455aa7-e114-7908-745b-e44648391b28
 resourcetype: Document
 title: '18.A34 Mathematical Problem Solving (Putnam Seminar): Supp_PS 5'
 uid: c69a904f-0532-163c-a1ff-151e35ca8d05

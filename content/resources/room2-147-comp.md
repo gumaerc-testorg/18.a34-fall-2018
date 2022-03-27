@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: d9ed0837-0051-c97b-48c5-47c6268f666b
 resourcetype: Image
 title: room2-147-comp.jpg
 uid: b5ff8240-a623-6ff4-2019-d86629e958ed
