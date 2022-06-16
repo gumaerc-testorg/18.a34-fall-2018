@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/9f91aedf65ea078bfc03a5f696768970_MIT18_A34F18Supp10.pdf
+file: /courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/9f91aedf65ea078bfc03a5f696768970_MIT18_A34F18Supp10.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

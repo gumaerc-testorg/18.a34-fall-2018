@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes schedule information about lecture, presentation,
+  and homework.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
