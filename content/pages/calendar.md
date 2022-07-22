@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes schedule information about lecture, presentation,
+  and homework.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 5c513200-a51b-bb9c-085e-83f5bb5cf318
 ---
@@ -32,7 +36,7 @@ KEY DATES
 {{< tdopen >}}
 Lecture 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Hidden independence and uniformity
 {{< tdclose >}}
 {{< tdopen >}}
@@ -59,7 +63,7 @@ Homework 1 due
 {{< tdopen >}}
 Lecture 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Sums and integrals
 {{< tdclose >}}
 {{< tdopen >}}
@@ -86,7 +90,7 @@ Homework 2 due
 {{< tdopen >}}
 Lecture 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Analysis
 {{< tdclose >}}
 {{< tdopen >}}
@@ -113,7 +117,7 @@ Homework 3 due
 {{< tdopen >}}
 Lecture 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Recurrences
 {{< tdclose >}}
 {{< tdopen >}}
@@ -140,7 +144,7 @@ Homework 4 due
 {{< tdopen >}}
 Lecture 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Inequalities
 {{< tdclose >}}
 {{< tdopen >}}
@@ -167,7 +171,7 @@ Homework 5 due
 {{< tdopen >}}
 Lecture 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Probability
 {{< tdclose >}}
 {{< tdopen >}}
@@ -194,7 +198,7 @@ Homework 6 due
 {{< tdopen >}}
 Lecture 7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Linear algebra
 {{< tdclose >}}
 {{< tdopen >}}
@@ -221,7 +225,7 @@ Homework 7 due
 {{< tdopen >}}
 Lecture 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Abstract algebra
 {{< tdclose >}}
 {{< tdopen >}}
@@ -248,7 +252,7 @@ Homework 8 due
 {{< tdopen >}}
 Lecture 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Congruences
 {{< tdclose >}}
 {{< tdopen >}}
@@ -275,7 +279,7 @@ Homework 9 due
 {{< tdopen >}}
 Lecture 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Combinatorial configurations
 {{< tdclose >}}
 {{< tdopen >}}
@@ -302,7 +306,7 @@ Homework 10 due
 {{< tdopen >}}
 Lecture 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Generating functions
 {{< tdclose >}}
 {{< tdopen >}}

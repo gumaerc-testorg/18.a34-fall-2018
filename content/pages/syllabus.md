@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about the schedule, general expectations, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 79be4dab-f62c-a795-8af7-df1a1c6b0680
 ---

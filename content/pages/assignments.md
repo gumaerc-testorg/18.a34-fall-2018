@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes assignments for Fall 2018 and previous years.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 32455aa7-e114-7908-745b-e44648391b28
 ---
@@ -34,9 +38,9 @@ Hidden independence and uniformity
 {{< tdopen >}}
 
 
-{{< anchor "hidden" >}}{{< /anchor >}}[Hidden independence and uniformity problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps1)
+{{< anchor "hidden" >}}{{< /anchor >}}{{% resource_link a17ab830-c0c3-6ffc-cb7a-5ae953d689f3 "Hidden independence and uniformity problems (PDF)" %}}
 
-[Supplementary problems #1: 1–13 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp1)
+{{% resource_link b6eaf420-7e50-ef63-6ac1-256396625d31 "Supplementary problems #1: 1–13 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -52,9 +56,9 @@ Sums and integrals
 {{< tdopen >}}
 
 
-{{< anchor "sums" >}}{{< /anchor >}}[Sums and integrals problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps2)
+{{< anchor "sums" >}}{{< /anchor >}}{{% resource_link 3c9a05d7-ae30-6978-bf90-b08c1819b937 "Sums and integrals problems (PDF)" %}}
 
-[Supplementary problems #2: 14–27 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp2)
+{{% resource_link 57246326-8ff2-f127-6909-dc5d7459ac95 "Supplementary problems #2: 14–27 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -70,9 +74,9 @@ Analysis
 {{< tdopen >}}
 
 
-{{< anchor "analysis" >}}{{< /anchor >}}[Analysis problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps3)
+{{< anchor "analysis" >}}{{< /anchor >}}{{% resource_link 0846eed9-5645-21ca-f39b-ce1a4f84586b "Analysis problems (PDF)" %}}
 
-[Supplementary problems #3: 28–39 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp3)
+{{% resource_link 2f367f7d-526d-08db-57c9-3759caeead73 "Supplementary problems #3: 28–39 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -88,9 +92,9 @@ Recurrences
 {{< tdopen >}}
 
 
-{{< anchor "recur" >}}{{< /anchor >}}[Recurrences problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps4)
+{{< anchor "recur" >}}{{< /anchor >}}{{% resource_link 25d0cf34-6406-49fe-7bff-9afd91201c78 "Recurrences problems (PDF)" %}}
 
-[Supplementary problems #4: 40–50 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp4)
+{{% resource_link 0f4d10d0-f209-3811-72d6-f76b8cd91081 "Supplementary problems #4: 40–50 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -106,9 +110,9 @@ Inequalities
 {{< tdopen >}}
 
 
-{{< anchor "ineq" >}}{{< /anchor >}}[Inequalities problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps5)
+{{< anchor "ineq" >}}{{< /anchor >}}{{% resource_link ac0bea1d-3dbe-78f4-9f1a-59e334150f87 "Inequalities problems (PDF)" %}}
 
-[Supplementary problems #5: 51–63 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp5)
+{{% resource_link c69a904f-0532-163c-a1ff-151e35ca8d05 "Supplementary problems #5: 51–63 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -124,9 +128,9 @@ Probability
 {{< tdopen >}}
 
 
-{{< anchor "prob" >}}{{< /anchor >}}[Probability problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps6)
+{{< anchor "prob" >}}{{< /anchor >}}{{% resource_link 9287bbac-47ee-d1ce-b009-458dab14d390 "Probability problems (PDF)" %}}
 
-[Supplementary problems #6: 64–76 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp6)
+{{% resource_link ef192e16-1a77-6ca7-1763-37e9c6f8ee7b "Supplementary problems #6: 64–76 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -142,9 +146,9 @@ Linear algebra
 {{< tdopen >}}
 
 
-{{< anchor "linear" >}}{{< /anchor >}}[Linear algebra problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps7)
+{{< anchor "linear" >}}{{< /anchor >}}{{% resource_link c6ab34c7-b682-8dfb-eadd-e8f7d835a621 "Linear algebra problems (PDF)" %}}
 
-[Supplementary problems #7: 77–87 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp7)
+{{% resource_link 852d6bbc-3065-05e8-b680-0086dc0d7363 "Supplementary problems #7: 77–87 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -160,9 +164,9 @@ Abstract algebra
 {{< tdopen >}}
 
 
-{{< anchor "abstract" >}}{{< /anchor >}}[Abstract algebra problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps8)
+{{< anchor "abstract" >}}{{< /anchor >}}{{% resource_link 85a58942-6035-2201-cf46-be8ec6a7ad73 "Abstract algebra problems (PDF)" %}}
 
-[Supplementary problems #8: 89–100 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp8)
+{{% resource_link 3fe03211-46e7-41d4-c578-9bfc70845566 "Supplementary problems #8: 89–100 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -178,9 +182,9 @@ Congruences
 {{< tdopen >}}
 
 
-{{< anchor "congru" >}}{{< /anchor >}}[Congruences problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps9)
+{{< anchor "congru" >}}{{< /anchor >}}{{% resource_link ed113f3f-d180-5db4-3b83-aafaf0fd74d0 "Congruences problems (PDF)" %}}
 
-[Supplementary problems #9: 101–110 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp9)
+{{% resource_link 24060027-b159-1fba-ab8d-55abf7827843 "Supplementary problems #9: 101–110 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -196,9 +200,9 @@ Combinatorial configurations
 {{< tdopen >}}
 
 
-{{< anchor "comb" >}}{{< /anchor >}}[Combinatorial configurations problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps10)
+{{< anchor "comb" >}}{{< /anchor >}}{{% resource_link 1e269ab4-d70d-b7d9-beea-a313839aa95b "Combinatorial configurations problems (PDF)" %}}
 
-[Supplementary problems #10: 111–122 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp10)
+{{% resource_link 9f91aedf-65ea-078b-fc03-a5f696768970 "Supplementary problems #10: 111–122 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -214,9 +218,9 @@ Generating functions
 {{< tdopen >}}
 
 
-{{< anchor "last" >}}{{< /anchor >}}[Generating functions problems (PDF)]({{< baseurl >}}/resources/mit18_a34f18ps11)
+{{< anchor "last" >}}{{< /anchor >}}{{% resource_link 71621511-df30-930b-f4db-4e8da5610a5e "Generating functions problems (PDF)" %}}
 
-[Supplementary problems #11: 123–133 (PDF)]({{< baseurl >}}/resources/mit18_a34f18supp11)
+{{% resource_link 63aa7932-fd96-cd9f-ed86-8509c854ff10 "Supplementary problems #11: 123–133 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -248,7 +252,7 @@ The Pigeonhole principle
 {{< tdopen >}}
 
 
-[Pigeonhole problems (PDF)]({{< baseurl >}}/resources/pigeonhole)
+{{% resource_link 1cd9a7da-c5cb-8483-1cc9-9047e542c708 "Pigeonhole problems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -261,7 +265,7 @@ Integer part
 {{< tdopen >}}
 
 
-[Integer part problems (PDF)]({{< baseurl >}}/resources/intpart)
+{{% resource_link 5ec8fde0-af60-5ea2-9b21-31d192c317b2 "Integer part problems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -274,7 +278,7 @@ Roots of polynomials
 {{< tdopen >}}
 
 
-[Roots of polynomials problems (PDF)]({{< baseurl >}}/resources/roots)
+{{% resource_link 2114bc3b-9c51-a555-e24e-12a09b507386 "Roots of polynomials problems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -287,7 +291,7 @@ Limit problems
 {{< tdopen >}}
 
 
-[Limit problems (PDF)]({{< baseurl >}}/resources/limits)
+{{% resource_link 5a7fd1a6-cf4d-234f-bffe-def8b8ff6920 "Limit problems (PDF)" %}}
 
 
 {{< tdclose >}}

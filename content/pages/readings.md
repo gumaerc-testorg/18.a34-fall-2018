@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of materials related to mathematical problem
+  solving.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: dc68b692-46fb-44d7-c85d-dfe6bc87fb48
 ---

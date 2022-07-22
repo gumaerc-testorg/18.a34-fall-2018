@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides some useful links related to mathematical problem
+  solving, including a link to the William Lowell Putnam Mathematical Competition,
+  a nationwide mathematics contest for undergraduates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 2e584fd8-990f-0986-34cd-3758561d2ee2
 ---
