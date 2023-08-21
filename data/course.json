@@ -32,8 +32,10 @@
     "website": "18-a34-mathematical-problem-solving-putnam-seminar-fall-2018"
   },
   "learning_resource_types": [
-    "Problem Sets"
+    "Problem Sets",
+    "Instructor Insights"
   ],
-  "site_uid": "c0dca757-0352-41ac-ac9a-6f79dfe80df1",
+  "site_uid": "d0dadd0a-0002-44a7-87ee-db776c8b039c",
+  "short_id": "18.a34-fall-2018",
   "title": "Course Metadata"
 }
