@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/5a7fd1a6cf4d234fbffedef8b8ff6920_limits.pdf
+file_size: 114213
 file_type: application/pdf
 learning_resource_types:
 - Assignments
