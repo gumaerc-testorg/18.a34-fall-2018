@@ -21,7 +21,8 @@
     "website": "18-a34-mathematical-problem-solving-putnam-seminar-fall-2018"
   },
   "course_title": "Mathematical Problem Solving (Putnam Seminar)",
-  "course_description": "This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the [William Lowell Putnam Mathematical Competition](http://math.scu.edu/putnam/).\n",
+  "hide_download": false,
+  "course_description": "This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the [William Lowell Putnam Mathematical Competition](https://maa.org/math-competitions/william-lowell-putnam-mathematical-competition).",
   "department_numbers": [
     "18"
   ],
