@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/1cd9a7dac5cb84831cc99047e542c708_pigeonhole.pdf
+file: /ol-ocw-studio-app/courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/1cd9a7dac5cb84831cc99047e542c708_pigeonhole.pdf
 file_size: 103447
 file_type: application/pdf
 learning_resource_types:
