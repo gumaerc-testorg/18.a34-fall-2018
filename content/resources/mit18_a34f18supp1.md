@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/b6eaf4207e50ef636ac1256396625d31_MIT18_A34F18Supp1.pdf
+file: /courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/b6eaf4207e50ef636ac1256396625d31_MIT18_A34F18Supp1.pdf
 file_size: 102696
 file_type: application/pdf
 learning_resource_types:
