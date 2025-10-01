@@ -11,12 +11,12 @@ uid: 2e584fd8-990f-0986-34cd-3758561d2ee2
 
 Below are some useful links related to mathematical problem solving, including a link to the William Lowell Putnam Mathematical Competition, a nationwide mathematics contest for undergraduates. All students officially registered in the class are required to participate in this competition.
 
-[William Lowell Putnam Mathematical Competition](http://math.scu.edu/putnam/)
+{{% resource_link "15ac00eb-b624-42ba-87cc-44122e774c09" "William Lowell Putnam Mathematical Competition" %}}
 
 Previous Putnam Problems and Solutions
 --------------------------------------
 
-[The Putnam Archive](http://kskedlaya.org/putnam-archive/)
+{{% resource_link "3646badf-acb2-43fc-8ace-7f61b624f7d8" "The Putnam Archive" %}}
 
 Kedlaya, Kiran Sridhara, Bjorn Poonen, and Ravi Vakil. _The William Lowell Putnam Mathematical Competition 1985–2000 Problems, Solutions, and Commentary_. MAA problem books series. American Mathematical Society; UK ed. edition, 2002. ISBN: 9780883858271.
 
