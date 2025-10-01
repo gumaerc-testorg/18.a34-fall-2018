@@ -16,11 +16,11 @@ Presentations: 1 session / week, 1 hour / session
 
 ## Prerequisites
 
-There are no prerequisites. It is offered as one of [MIT's First-Year Advising Seminars](http://catalog.mit.edu/mit/undergraduate-education/academic-research-options/freshman-advising-seminars/).
+There are no prerequisites. It is offered as one of {{% resource_link "04befb33-aa57-426f-8a83-782a83998435" "MIT's First-Year Advising Seminars" %}}.
 
 ## Course Description
 
-This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the [William Lowell Putnam Mathematical Competition](https://en.wikipedia.org/wiki/William_Lowell_Putnam_Mathematical_Competition)—an annual mathematics contest for undergraduates in the USA and Canada.
+This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the {{% resource_link "ab6954a1-671b-4022-ae39-002855c4080d" "William Lowell Putnam Mathematical Competition" %}}—an annual mathematics contest for undergraduates in the USA and Canada.
 
 ## Schedule and Expectations
 
