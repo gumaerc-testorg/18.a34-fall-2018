@@ -22,7 +22,7 @@
   },
   "course_title": "Mathematical Problem Solving (Putnam Seminar)",
   "hide_download": false,
-  "course_description": "This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the [William Lowell Putnam Mathematical Competition](https://en.wikipedia.org/wiki/William_Lowell_Putnam_Mathematical_Competition).",
+  "course_description": "This course is a seminar intended for undergraduate students who enjoy solving challenging mathematical problems, and to prepare them for the Putnam Competition. All students officially registered in the class are required to participate in the {{% resource_link \"ab6954a1-671b-4022-ae39-002855c4080d\" \"William Lowell Putnam Mathematical Competition\" %}}.",
   "department_numbers": [
     "18"
   ],
