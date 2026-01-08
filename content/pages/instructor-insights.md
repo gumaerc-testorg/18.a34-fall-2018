@@ -13,13 +13,13 @@ uid: d9ed0837-0051-c97b-48c5-47c6268f666b
 
 Professor Yufei Zhao, who took *18.A34 Mathematical Problem Solving (Putnam Seminar)* as an undergraduate at MIT and was a three-time Putnam Fellow, has gone on to a flourishing career in mathematics:
 
-{{% resource_link "2c79a9a0-ac6d-4457-88c5-64f935aca994" "Yufei Zhao Wins Future of Science Award" %}}
+[Yufei Zhao Wins Future of Science Award](http://news.mit.edu/2018/yufei-zhao-wins-future-science-award-0709)
 
-{{% resource_link "5e6f882b-682d-453b-a603-70fc1bc2e995" "Four from MIT Named 2019 Sloan Research Fellows" %}}
+[Four from MIT Named 2019 Sloan Research Fellows](http://news.mit.edu/2019/four-from-mit-named-sloan-research-fellows-0221)
 
-Under his coaching, MIT students have been remarkably successful in the {{% resource_link "ab6954a1-671b-4022-ae39-002855c4080d" "Putnam Competition" %}}:
+Under his coaching, MIT students have been remarkably successful in the [Putnam Competition](https://en.wikipedia.org/wiki/William_Lowell_Putnam_Mathematical_Competition):
 
-{{% resource_link "f9e499f0-471a-4178-82ab-084abe216463" "MIT Students Take Back Putnam Competition Honors" %}}
+[MIT Students Take Back Putnam Competition Honors](http://news.mit.edu/2018/mit-students-take-back-putnam-top-honors-0222)
 
 Below, Professor Zhao describes various aspects of how he teaches the Putnam Seminar.
 
